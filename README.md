@@ -44,7 +44,7 @@ AutoBot-Integrator/
 ### Como Executar
 #### Clone o Repositório
 ```bash
-git clone https://github.com/seu-usuario/AutoBot-Integrator.git
+git clone https://github.com/SouzaEu/AutoBot-Integrator.git
 ```
 
 #### Instale as Dependências
